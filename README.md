@@ -28,3 +28,5 @@ Este projeto tem como objetivo criar uma API simples que recebe um arquivo envia
 2. A API processa o arquivo e valida os dados conforme os parâmetros necessários.
 3. Os dados são gravados em uma tabela do banco de dados PostgreSQL.
 4. A API retorna uma resposta com o status da operação.
+
+https://www.youtube.com/watch?v=QSErxSuK73k
