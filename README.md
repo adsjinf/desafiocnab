@@ -30,3 +30,5 @@ Este projeto tem como objetivo criar uma API simples que recebe um arquivo envia
 4. A API retorna uma resposta com o status da operação.
 
 https://www.youtube.com/watch?v=QSErxSuK73k
+
+https://excalidraw.com/#json=d9Ro--8eJvK78ZR_uk_Nb,tBdH4POyeVTJH78ihuFY5w
