@@ -9,8 +9,8 @@ public enum TipoTransacao {
     RECEBIMENTO_EMPRESTIMO(5, "RECEBIMENTO EMPRÉSTIMO", "Entrada", "+"),
     VENDAS(6, "VENDA", "Entrada", "+"),
     RECEBIMENTO_TED(7, "RECEBIMENTO TED", "Entrada", "+"),
-    RECEBIMENTO_DOC(7, "RECEBIMENTO DOC", "Entrada", "+"),
-    ALUGUEL(7, "ALUGUÉL", "Saída", "-");
+    RECEBIMENTO_DOC(8, "RECEBIMENTO DOC", "Entrada", "+"),
+    ALUGUEL(9, "ALUGUÉL", "Saída", "-");
 
     private final int codigo;
     private final String descicao;
